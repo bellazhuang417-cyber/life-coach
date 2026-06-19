@@ -1,6 +1,6 @@
 # Life Coach Skill for WorkBuddy
 
-一个通用的人生教练 Skill，基于苏格拉底式追问 + 温暖直接的教练风格。
+一个人生教练 Skill，基于苏格拉底式追问 + 温暖直接的教练风格。
 
 ## ✨ 功能特点
 
